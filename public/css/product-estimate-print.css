@@ -1,0 +1,6 @@
+ @media print{
+    .wc-es-product-list-pdf-table{
+        width: 100% !important;
+        background: red !important;
+    }
+ }

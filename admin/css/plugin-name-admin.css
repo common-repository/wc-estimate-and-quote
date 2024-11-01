@@ -1,0 +1,38 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+body{
+    background: #f1f1f1 !important;
+}
+.innovs-pe-card-header {
+    padding: 10px 0px 0px 20px !important;
+    background: #635dbd !important;
+    color: #fff !important;
+}
+
+select {
+    padding: 1px 6px;
+    width: 60px;
+}
+
+.wp-picker-container {
+    display: inline-block;
+    position: absolute;
+    z-index: unset !important;
+}
+
+.wp-picker-holder {
+    position: absolute !important;
+    z-index: 999 !important;
+}
+
+.es-modal-header {
+    padding: 5px 10px !important;
+    border-bottom: 1px solid #e9ecef !important;
+    border-radius: 0px;
+    color: gray;
+}
+.card{
+    max-width: 100%;
+}
